@@ -1,6 +1,6 @@
 ### Hi there 🤔
 
-<img align="left" src="https://github.com/SummonSteve/SummonSteve/blob/master/assets/pusheencode.gif"/>
+<img align="left" src="https://raw.githubusercontent.com/SummonSteve/SummonSteve/main/assets/pusheencode.gif"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SummonSteve)](https://github.com/anuraghazra/github-readme-stats)
