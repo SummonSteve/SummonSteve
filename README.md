@@ -5,7 +5,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SummonSteve)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MyAngelATRI)](https://github.com/anuraghazra/github-readme-stats)
 
 MyAngelATRI
 
