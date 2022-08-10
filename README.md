@@ -1,16 +1,14 @@
-I'm noob
+### I'm noob
 
-Nothing on github
+### Nothing on github
 
-Mainly woking on my private project
+### Mainly woking on my private project
 
 |             | **Current**                                                  | Future                                                       |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | work        | Building a game engine with Rust                             | Continue the ATRILive project                                |
 | info        | Blog here -> [atir-engine](https://summonsteve.github.io/blog/2022/atir/) | repo here -> [ATRILive](https://github.com/SummonSteve/ATRILive) |
 | description | Rust game engine                                             | Livestream Scene toolkit                                     |
-
-
 
 [![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 
