@@ -12,8 +12,6 @@
 
 [![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MyAngelATRI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummonSteve&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/pure-peace/SummonSteve)
 
 <!--
